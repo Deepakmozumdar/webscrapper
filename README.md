@@ -1,9 +1,9 @@
 # scrape-the-news
 
-Created in Week 18 of RCB. Uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. Uses Mongoose to store comments and articles.
+It uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. It uses Mongoose to store comments and articles.
 
 ## Getting Started
-https://scrape-the-news.herokuapp.com/
+https://magix-news.herokuapp.com
 
 ## Screen Shots
 
@@ -45,4 +45,4 @@ Add comments by filling in the form
 
 ## Authors
 
-* **Stefanie Ding** - Full Stack Developer - [Stefanie Ding](https://github.com/StefanieDing)
+* **Tushar Narang** - Full Stack Developer - [Tushar Narang](https://github.com/tusharhacker)

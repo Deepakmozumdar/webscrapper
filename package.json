@@ -1,23 +1,23 @@
 {
-  "name": "scrape-the-news",
+  "name": "Magix-News",
   "version": "1.0.0",
-  "description": "Created in Week 18 of RCB. Uses Mongoose to Scrape news articles from a site and allows the user to make comments and delete them.",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/scrape-the-news.git"
+    "url": "git+https://github.com/tusharhacker/Magix-News.git"
   },
   "keywords": [],
-  "author": "Stefanie Ding",
+  "author": "Tushar Narang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StefanieDing/scrape-the-news/issues"
+    "url": "https://github.com/tusharhacker/Magix-News/issues"
   },
-  "homepage": "https://github.com/StefanieDing/scrape-the-news#readme",
+  "homepage": "https://github.com/tusharhacker/Magix-News#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cheerio": "^0.22.0",
